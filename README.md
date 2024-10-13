@@ -4,4 +4,3 @@ This is a simple Python Flask app that can be deployed via Jenkins running in an
 
 Once deployed, any update should send a webhook and trigger a pipeline run.  It may be possible for multiple to get triggered.  
 
-Perhaps this time...  I just keep buildin
